@@ -2,44 +2,44 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-03-06T17:07:45 IST" name="Default suite" finished-at="2025-03-06T17:08:49 IST" duration-ms="64057">
+  <suite started-at="2025-03-12T16:37:16 IST" name="Default suite" finished-at="2025-03-12T16:39:51 IST" duration-ms="154852">
     <groups>
     </groups>
-    <test started-at="2025-03-06T17:07:45 IST" name="Default test" finished-at="2025-03-06T17:08:49 IST" duration-ms="64057">
+    <test started-at="2025-03-12T16:37:16 IST" name="Default test" finished-at="2025-03-12T16:39:51 IST" duration-ms="154852">
       <class name="VTIGER.DDT.Campaign.CreateCampaignTest">
-        <test-method is-config="true" signature="BS()[pri:0, instance:VTIGER.DDT.Campaign.CreateCampaignTest@36902638]" started-at="2025-03-06T17:07:45 IST" name="BS" finished-at="2025-03-06T17:07:45 IST" duration-ms="5" status="PASS">
+        <test-method is-config="true" signature="BS()[pri:0, instance:VTIGER.DDT.Campaign.CreateCampaignTest@36902638]" started-at="2025-03-12T16:37:16 IST" name="BS" finished-at="2025-03-12T16:37:16 IST" duration-ms="10" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BS -->
-        <test-method is-config="true" signature="BT()[pri:0, instance:VTIGER.DDT.Campaign.CreateCampaignTest@36902638]" started-at="2025-03-06T17:07:45 IST" name="BT" finished-at="2025-03-06T17:07:45 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="BT()[pri:0, instance:VTIGER.DDT.Campaign.CreateCampaignTest@36902638]" started-at="2025-03-12T16:37:16 IST" name="BT" finished-at="2025-03-12T16:37:16 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BT -->
-        <test-method is-config="true" signature="BC()[pri:0, instance:VTIGER.DDT.Campaign.CreateCampaignTest@36902638]" started-at="2025-03-06T17:07:45 IST" name="BC" finished-at="2025-03-06T17:07:49 IST" duration-ms="3969" status="PASS">
+        <test-method is-config="true" signature="BC()[pri:0, instance:VTIGER.DDT.Campaign.CreateCampaignTest@36902638]" started-at="2025-03-12T16:37:16 IST" name="BC" finished-at="2025-03-12T16:37:24 IST" duration-ms="7590" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BC -->
-        <test-method is-config="true" signature="BM()[pri:0, instance:VTIGER.DDT.Campaign.CreateCampaignTest@36902638]" started-at="2025-03-06T17:07:49 IST" name="BM" finished-at="2025-03-06T17:07:55 IST" duration-ms="5722" status="PASS">
+        <test-method is-config="true" signature="BM()[pri:0, instance:VTIGER.DDT.Campaign.CreateCampaignTest@36902638]" started-at="2025-03-12T16:37:24 IST" name="BM" finished-at="2025-03-12T16:38:06 IST" duration-ms="41983" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BM -->
-        <test-method signature="createCampaign()[pri:0, instance:VTIGER.DDT.Campaign.CreateCampaignTest@36902638]" started-at="2025-03-06T17:07:55 IST" name="createCampaign" finished-at="2025-03-06T17:08:45 IST" duration-ms="50405" status="PASS">
+        <test-method signature="createCampaign()[pri:0, instance:VTIGER.DDT.Campaign.CreateCampaignTest@36902638]" started-at="2025-03-12T16:38:06 IST" name="createCampaign" finished-at="2025-03-12T16:39:42 IST" duration-ms="95713" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createCampaign -->
-        <test-method is-config="true" signature="AM()[pri:0, instance:VTIGER.DDT.Campaign.CreateCampaignTest@36902638]" started-at="2025-03-06T17:08:45 IST" name="AM" finished-at="2025-03-06T17:08:49 IST" duration-ms="3382" status="PASS">
+        <test-method is-config="true" signature="AM()[pri:0, instance:VTIGER.DDT.Campaign.CreateCampaignTest@36902638]" started-at="2025-03-12T16:39:42 IST" name="AM" finished-at="2025-03-12T16:39:51 IST" duration-ms="8952" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AM -->
-        <test-method is-config="true" signature="AC()[pri:0, instance:VTIGER.DDT.Campaign.CreateCampaignTest@36902638]" started-at="2025-03-06T17:08:49 IST" name="AC" finished-at="2025-03-06T17:08:49 IST" duration-ms="294" status="PASS">
+        <test-method is-config="true" signature="AC()[pri:0, instance:VTIGER.DDT.Campaign.CreateCampaignTest@36902638]" started-at="2025-03-12T16:39:51 IST" name="AC" finished-at="2025-03-12T16:39:51 IST" duration-ms="277" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AC -->
-        <test-method is-config="true" signature="AT()[pri:0, instance:VTIGER.DDT.Campaign.CreateCampaignTest@36902638]" started-at="2025-03-06T17:08:49 IST" name="AT" finished-at="2025-03-06T17:08:49 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="AT()[pri:0, instance:VTIGER.DDT.Campaign.CreateCampaignTest@36902638]" started-at="2025-03-12T16:39:51 IST" name="AT" finished-at="2025-03-12T16:39:51 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AT -->
-        <test-method is-config="true" signature="AS()[pri:0, instance:VTIGER.DDT.Campaign.CreateCampaignTest@36902638]" started-at="2025-03-06T17:08:50 IST" name="AS" finished-at="2025-03-06T17:08:50 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="AS()[pri:0, instance:VTIGER.DDT.Campaign.CreateCampaignTest@36902638]" started-at="2025-03-12T16:39:51 IST" name="AS" finished-at="2025-03-12T16:39:51 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AS -->
